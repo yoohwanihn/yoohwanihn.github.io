@@ -112,6 +112,14 @@ a:hover{
     letter-spacing: -0.3px;
 }
 
+.day-comment{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    font-size: 45px;
+    font-style: italic;
+
+    letter-spacing: -0.3px;
+}
 
 /*recent works*/
 
